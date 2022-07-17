@@ -29,3 +29,5 @@ pip install colorama
 # Credits
 
 This Tool was made by CryptomDR 
+
+Created for educational purposes
